@@ -1,7 +1,10 @@
-### Sobre mi
-Mi nombre de pila es Sergio Jiménez, soy un lector, programador, informático, matemático, meditador, poliglota, escritor, científico apasionado por la fotografía, la música, el ajedrez, el fútbol y con un anhelo insaciable de aprender y de comprender el mundo que me rodea.<br>
+## Sobre mi
+Mi nombre de pila es Sergio Jiménez, soy un lector, :computer: programador, informático, matemático, meditador, poliglota, escritor, científico apasionado por la :camera: fotografía, la música, el ajedrez, el fútbol y con un anhelo insaciable de aprender y de comprender el mundo que me rodea.<br>
+:heart: Me encanta la programacion
 
-:memo: Soy muy organizado  
+---
+
+### Sobre mis habilidades
 
 ---
 
