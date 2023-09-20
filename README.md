@@ -1,5 +1,5 @@
 # Sobre mi
-Mi nombre de pila es :boy: Sergio Jiménez, soy un lector, :computer: programador, informático, matemático, meditador, poliglota, escritor, :microscope: científico apasionado por la :camera: fotografía,:headphones: la música, el ajedrez, :soccer: el fútbol y con un anhelo insaciable de aprender y de comprender el mundo que me rodea :earth_americas:.<br>
+Mi nombre de pila es :boy: Fabrer Jiménez, soy un lector, :computer: programador, informático, matemático, meditador, poliglota, escritor, :microscope: científico apasionado por la :camera: fotografía,:headphones: la música, el ajedrez, :soccer: el fútbol y con un anhelo insaciable de aprender y de comprender el mundo que me rodea :earth_americas:.<br>
 
 ## Datos importantes:
 :heart: Me apasiona la programacion<br>
